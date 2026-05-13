@@ -1,6 +1,13 @@
 # 🪄 Sorcerer Supreme VFX Engine
 
 A highly optimized, browser-native interactive application that uses real-time webcam multi-hand tracking to cast high-fidelity, particle-based magical VFX inspired by the mystic arts.
+# My Project
+
+🌐 Live Website: https://project-sorcerer-supreme.netlify.app
+
+## Features
+- Fast
+- Responsive
 
 ## ✨ Features
 - **Real-Time Hand Tracking:** Utilizes MediaPipe's computer vision models to accurately track up to two hands simultaneously at 60 FPS.

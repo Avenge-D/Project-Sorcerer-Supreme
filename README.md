@@ -79,3 +79,5 @@ The application utilizes a hybrid architectural approach to maximize performance
 ## ⚠️ Known Limitations
 - The tracking relies on `@mediapipe/hands` running efficiently on your CPU/GPU. Ensure hardware acceleration is enabled in your browser.
 - The camera requires adequate ambient lighting for accurate MediaPipe landmark tracking. Complex backgrounds or backlighting may cause the gesture classifier to flicker.
+#project5
+#vibecode
